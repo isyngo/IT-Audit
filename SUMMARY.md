@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * 第一章：学习之路  
   * [1.1 我从军官到审计师的蜕变之路](1.1.md) 
   * [1.2 如何学会任何一门技能？](1.2.md) 
