@@ -40,3 +40,4 @@ work(your_mind)
   * [1.6 IT审计的介绍](1.6.md) 
 * 第二章：SQL基础
   * [2.1 Mysql安装](2.1.md) 
+  * [2.2 Navicat配置](2.2.md) 
